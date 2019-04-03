@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/04/03" author="e.World Technology Ltd.">
+  <project id="{0152ED89-224F-42DD-8ED6-B3D980785F93}" file="C:\xampp\htdocs\acc\acc_prj.pmp" name="acc_prj" product="PHPMaker" version="15.0" datetime="2019/04/03 15:39:49" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+    <table id="cf01_home" name="cf01_home.php" caption="Home" userlevel="-2,&quot;Anonymous&quot;,72;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0001_kelompokakun" name="t0001_kelompokakun" caption="Kelompok Akun" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0002_subklasakun" name="t0002_subklasakun" caption="Sub-Kelompok Akun" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0003_akun" name="t0003_akun" caption="Akun" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0004_jurnal" name="t0004_jurnal" caption="Jurnal" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0005_jurnaldetail" name="t0005_jurnaldetail" caption="Rincian" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t0006_tipejurnal" name="t0006_tipejurnal" caption="Tipe Jurnal" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9900_periode" name="t9900_periode" caption="Periode" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9901_perusahaan" name="t9901_perusahaan" caption="Perusahaan" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9996_employees" name="t9996_employees" caption="User List" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9997_userlevels" name="t9997_userlevels" caption="Hak Akses" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9998_userlevelpermissions" name="t9998_userlevelpermissions" caption="Hak Akses Tabel" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+    <table id="t9999_audittrail" name="t9999_audittrail" caption="Log. Aktifitas" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1" />
+  </project>
+</configuration>
